@@ -1,0 +1,17 @@
+/* h1{
+    text-align: center;
+} */
+form{
+    
+}
+ul{
+    list-style: none;
+
+}
+li{
+    /* display: flex; */
+    /* justify-content: space-around; */
+}
+body{text-align: center;
+font-size: 1.3rem;
+}
